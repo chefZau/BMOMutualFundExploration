@@ -7,6 +7,9 @@ Investment is a field that requires lifelong learning, and I'd like to start ear
 2. Exploratory data analysis (EDA): supplement statistics with appropriate plots to understand the distributions and relationships.
 3. Communicate my findings: implement a dynamic dashboard for communicating insights.
 
+## Prerequisite
+
+
 ## Dataset
 
 
