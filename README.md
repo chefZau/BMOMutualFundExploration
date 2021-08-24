@@ -1,1 +1,1 @@
-# BMO Mutual Fund Exploration
+# Exploring BMO Mutual Funds
