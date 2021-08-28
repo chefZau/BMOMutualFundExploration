@@ -18,10 +18,9 @@ The project was built using **Python 3**, and the primary IDE is **Jupyter Noteb
 
 Notice that in the data wrangling section, web scraping is needed. Here are the essential libraries I used for extracting and parsing web data:
 
-* [Requests](https://docs.python-requests.org/en/master/)
-* [Selenium](https://selenium-python.readthedocs.io) (make sure you download the driver)
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-
+* [Requests](https://docs.python-requests.org/en/master/): a HTTP library for making requests.
+* [Selenium](https://selenium-python.readthedocs.io): create a browser and act like a human. (make sure you download the driver)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/): for pulling data out of HTML and XML files.
 
 ## Dataset
 
