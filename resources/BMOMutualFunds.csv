@@ -10,7 +10,7 @@ Fund ID,Fund Name,Asset Class,Assets,Date Started
 59597,BMO Global Monthly Income Fund ,Global Equity Balanced,61.1,2004-10-01
 93719,BMO Global Monthly Income Fund Series R ,Global Equity Balanced,61.1,2013-03-01
 93742,BMO Global Monthly Income Fund Series T6 ,Global Equity Balanced,61.1,2013-04-01
-53879,BMO Global Strategic Bond Fund ,High Yield Fixed Income,279.0,2000-11-01
+53879,BMO Global Strategic Bond Fund ,High Yield Fixed Income,279,2000-11-01
 93743,BMO Monthly High Income Fund II ,Canadian Dividend & Income Equity,787.2,2013-04-01
 51967,BMO Monthly Income Fund ,Canadian Neutral Balanced,4787.3,1999-03-01
 93716,BMO Monthly Income series R ,Canadian Neutral Balanced,4787.3,2013-03-01
@@ -28,7 +28,7 @@ Fund ID,Fund Name,Asset Class,Assets,Date Started
 40131,BMO Global Growth & Income Fund Series A ,Global Equity,166.4,2016-08-01
 49364,BMO Global Multi-Sector Bond Fund ,Global Fixed Income,122.9,2018-05-01
 49369,BMO Crossover Bond Fund ,Global Fixed Income,386.4,2018-05-01
-88978,BMO Asian Growth & Income Fund Series A ,Asia Pacific ex-Japan Equity,470.0,2012-04-01
+88978,BMO Asian Growth & Income Fund Series A ,Asia Pacific ex-Japan Equity,470,2012-04-01
 17694,BMO Asset Allocation Fund ,Canadian Neutral Balanced,1709.1,1988-05-01
 59593,BMO Canadian Equity Class ,Canadian Equity,37.2,2004-10-01
 17698,BMO Canadian Equity ETF Fund ,Canadian Equity,419.1,1988-05-01
@@ -44,7 +44,7 @@ Fund ID,Fund Name,Asset Class,Assets,Date Started
 63122,BMO Global Infrastructure Fund ,Global Infrastructure Equity,110.1,2006-06-01
 75939,BMO Global Low Volatility ETF Class ,Tactical Balanced,105.1,2010-05-01
 51966,BMO International Equity ETF Fund ,International Equity,75.3,1999-03-01
-70557,BMO International Value Class ,International Equity,92.0,2008-11-01
+70557,BMO International Value Class ,International Equity,92,2008-11-01
 97773,BMO International Value Fund ,International Equity,142.9,2014-04-01
 17707,BMO North American Dividend Fund ,North American Equity,449.8,1994-10-01
 94533,BMO Tactical Dividend ETF Fund ,Tactical Balanced,364.6,2013-08-01
@@ -60,13 +60,13 @@ Fund ID,Fund Name,Asset Class,Assets,Date Started
 31183,BMO Tactical Global Equity ETF Fund ,Global Equity,347.4,2015-04-01
 31187,BMO Global Equity Fund ,Global Equity,26.7,2015-04-01
 32978,BMO Global Equity Fund Series T6 ,Global Equity,26.7,2015-11-01
-32962,BMO Asian Growth & Income Fund Series T6 ,Asia Pacific ex-Japan Equity,470.0,2015-11-01
+32962,BMO Asian Growth & Income Fund Series T6 ,Asia Pacific ex-Japan Equity,470,2015-11-01
 32976,BMO Tactical Global Equity ETF Fund Series T6 ,Global Equity,347.4,2015-11-01
 32974,BMO Tactical Dividend ETF Fund Series T6 ,Tactical Balanced,364.6,2015-11-01
 32968,BMO European Fund Series T6 ,European Equity,1397.4,2015-11-01
 32971,BMO North American Dividend Fund Series T6 ,North American Equity,449.8,2015-11-01
 37641,BMO Tactical Global Growth ETF Fund ,Tactical Balanced,130.1,2016-04-01
-37637,BMO Tactical Global Asset Allocation ETF Fund ,Tactical Balanced,372.0,2016-04-01
+37637,BMO Tactical Global Asset Allocation ETF Fund ,Tactical Balanced,372,2016-04-01
 37645,BMO Women in Leadership Fund ,North American Equity,106.2,2016-04-01
 37649,BMO Sustainable Opportunities Global Equity Fund ,Global Equity,579.8,2016-04-01
 37653,BMO Covered Call Canadian Banks ETF Fund ,Financial Services Equity,436.4,2016-04-01
@@ -75,14 +75,14 @@ Fund ID,Fund Name,Asset Class,Assets,Date Started
 33021,BMO U.S. Equity Series A (Hedged) ,US Equity,1238.1,2016-05-01
 43603,BMO International Equity Fund ,International Equity,233.4,2017-09-01
 43607,BMO Japan Fund ,Geographic Equity,399.9,2017-09-01
-49349,BMO Concentrated Global Equity Fund ,Global Equity,2009.0,2018-05-01
+49349,BMO Concentrated Global Equity Fund ,Global Equity,2009,2018-05-01
 49359,BMO Multi-Factor Equity Fund ,US Equity,1297.5,2018-05-01
 49374,BMO Covered Call Canada High Dividend ETF Fund ,Canadian Dividend & Income Equity,69.7,2018-05-01
 41650,BMO SIA Focused Canadian Equity Fund ,Canadian Equity,76.5,2018-12-01
 70663,BMO SIA Focused North American Equity Fund ,North American Equity,212.6,2018-12-01
 67337,BMO Concentrated U.S. Equity Fund ,US Equity,28.2,2019-05-01
 92643,BMO Low Volatility Canadian Equity ETF Fund ,Canadian Equity,156.4,2019-05-01
-98142,BMO Concentrated Global Equity Fund Series T6 ,Global Equity,2009.0,2019-05-01
+98142,BMO Concentrated Global Equity Fund Series T6 ,Global Equity,2009,2019-05-01
 99965,BMO Low Volatility U.S. Equity ETF Fund ,US Equity,6.6,2020-08-01
 99967,BMO Low Volatility U.S. Equity ETF Fund Series T4 ,US Equity,6.6,2020-08-01
 92880,BMO Sustainable Opportunities Canadian Equity Fund ,Canadian Equity,33.5,2020-08-01
@@ -92,10 +92,10 @@ Fund ID,Fund Name,Asset Class,Assets,Date Started
 88979,BMO Global Small Cap Fund Series A ,Global Small/Mid Cap Equity,274.9,2012-04-01
 59596,BMO Greater China Class ,Greater China Equity,115.3,2004-10-01
 27536,BMO Precious Metals Fund ,Precious Metals Equity,91.1,1997-01-01
-17708,BMO Resource Fund ,Natural Resources Equity,105.0,1993-08-01
+17708,BMO Resource Fund ,Natural Resources Equity,105,1993-08-01
 49354,BMO U.S. Small Cap Fund ,US Small/Mid Cap Equity,197.5,2018-05-01
 94536,BMO U.S. Dollar Balanced Fund ,Global Neutral Balanced,204.2,2013-08-01
-94535,BMO U.S. Dollar Dividend Fund ,US Equity,97.0,2013-08-01
+94535,BMO U.S. Dollar Dividend Fund ,US Equity,97,2013-08-01
 51380,BMO U.S. Dollar Equity Index Fund ,US Equity,162.7,1998-10-01
 51379,BMO U.S. Dollar Money Market Fund ,US Money Market,175.3,1998-10-01
 59598,BMO U.S. Dollar Monthly Income Fund ,Global Neutral Balanced,322.3,2004-10-01
@@ -111,28 +111,28 @@ Fund ID,Fund Name,Asset Class,Assets,Date Started
 66088,BMO LifeStage Plus 2030 Fund ,2030 Target Date Portfolio,50.3,2007-06-01
 66084,BMO FundSelect Income Portfolio (formerly BMO FundSelect Security Portfolio) ,Global Fixed Income Balanced,38.1,2007-06-01
 66090,BMO FundSelect® Balanced Portfolio ,Global Neutral Balanced,129.3,2007-06-01
-66083,BMO FundSelect® Growth Portfolio ,Global Equity Balanced,108.0,2007-06-01
-66089,BMO FundSelect® Equity Growth Portfolio ,Global Equity,36.0,2007-06-01
-94783,BMO Fixed Income ETF Portfolio ,Global Fixed Income,278.0,2013-08-01
+66083,BMO FundSelect® Growth Portfolio ,Global Equity Balanced,108,2007-06-01
+66089,BMO FundSelect® Equity Growth Portfolio ,Global Equity,36,2007-06-01
+94783,BMO Fixed Income ETF Portfolio ,Global Fixed Income,278,2013-08-01
 94786,BMO Income ETF Portfolio † (formerly BMO Security ETF Portfolio) ,Canadian Fixed Income Balanced,1438.7,2013-08-01
-94789,BMO Conservative ETF Portfolio ,Global Fixed Income Balanced,2233.0,2013-08-01
+94789,BMO Conservative ETF Portfolio ,Global Fixed Income Balanced,2233,2013-08-01
 94792,BMO Balanced ETF Portfolio ,Global Neutral Balanced,6015.7,2013-08-01
 94795,BMO Growth ETF Portfolio ,Global Equity Balanced,2120.1,2013-08-01
 94798,BMO Equity Growth ETF Portfolio ,Global Equity,848.4,2013-08-01
-80083,BMO Income ETF Portfolio Class (formerly BMO Security ETF Portfolio Class) ,Canadian Fixed Income Balanced,992.0,2010-07-01
+80083,BMO Income ETF Portfolio Class (formerly BMO Security ETF Portfolio Class) ,Canadian Fixed Income Balanced,992,2010-07-01
 80084,BMO Balanced ETF Portfolio Class ,Global Neutral Balanced,991.2,2010-07-01
 80085,BMO Growth ETF Portfolio Class ,Global Equity Balanced,164.8,2010-07-01
 80086,BMO Equity Growth ETF Portfolio Class  ,Global Equity,49.3,2010-07-01
-82691,BMO Income ETF Portfolio Class - Series T6 (formerly BMO Security ETF Portfolio Class) ,Canadian Fixed Income Balanced,992.0,2010-11-01
+82691,BMO Income ETF Portfolio Class - Series T6 (formerly BMO Security ETF Portfolio Class) ,Canadian Fixed Income Balanced,992,2010-11-01
 82721,BMO Balanced ETF Portfolio Class - Series T6 ,Global Neutral Balanced,991.2,2010-11-01
 82822,BMO Growth ETF Portfolio Class - Series T6 ,Global Equity Balanced,164.8,2010-11-01
 82821,BMO Equity Growth ETF Portfolio Class - Series T6 ,Global Equity,49.3,2010-11-01
 95893,BMO Income ETF Portfolio Series T6 † (formerly BMO Security ETF Portfolio) ,Canadian Fixed Income Balanced,1438.7,2013-11-01
 95883,BMO Balanced ETF Portfolio Series T6 ,Global Neutral Balanced,6015.7,2013-11-01
-95885,BMO Conservative ETF Portfolio Series T6 ,Global Fixed Income Balanced,2233.0,2013-11-01
+95885,BMO Conservative ETF Portfolio Series T6 ,Global Fixed Income Balanced,2233,2013-11-01
 95887,BMO Equity Growth ETF Portfolio Series T6 ,Global Equity,848.4,2013-11-01
 95891,BMO Growth ETF Portfolio series T6 ,Global Equity Balanced,2120.1,2013-11-01
-95889,BMO Fixed Income ETF Portfolio Series T6 ,Global Fixed Income,278.0,2013-11-01
+95889,BMO Fixed Income ETF Portfolio Series T6 ,Global Fixed Income,278,2013-11-01
 38784,BMO USD Income ETF Portfolio Series T6 ,Global Fixed Income Balanced,14.7,2020-08-01
 38782,BMO USD Income ETF Portfolio ,Global Fixed Income Balanced,14.7,2020-08-01
 93997,BMO USD Conservative ETF Portfolio T6 ,Global Fixed Income Balanced,26.3,2020-08-01
@@ -164,13 +164,13 @@ Fund ID,Fund Name,Asset Class,Assets,Date Started
 29203,BMO Target Education 2030 Portfolio ,2030 Target Date Portfolio,111.2,2014-11-01
 29205,BMO Target Education 2035 Portfolio ,2035 Target Date Portfolio,96.3,2014-11-01
 97937,BMO Target Education 2040 Portfolio Series A ,2035+ Target Date Portfolio,3.3,2020-08-01
-32232,BMO Retirement Income Portfolio Series A ,Global Fixed Income Balanced,916.0,2015-08-01
+32232,BMO Retirement Income Portfolio Series A ,Global Fixed Income Balanced,916,2015-08-01
 32236,BMO Retirement Conservative Portfolio Series A ,Global Fixed Income Balanced,2027.8,2015-08-01
 32240,BMO Retirement Balanced Portfolio Series A ,Global Neutral Balanced,3809.1,2015-08-01
-37626,BMO Retirement Income Portfolio Series T4 ,Global Fixed Income Balanced,916.0,2016-04-01
+37626,BMO Retirement Income Portfolio Series T4 ,Global Fixed Income Balanced,916,2016-04-01
 37634,BMO Retirement Balanced Portfolio Series T4  ,Global Neutral Balanced,3809.1,2016-04-01
 37630,BMO Retirement Conservative Portfolio Series T4 ,Global Fixed Income Balanced,2027.8,2016-04-01
-32233,BMO Retirement Income Portfolio Series T6 ,Global Fixed Income Balanced,916.0,2015-08-01
+32233,BMO Retirement Income Portfolio Series T6 ,Global Fixed Income Balanced,916,2015-08-01
 32237,BMO Retirement Conservative Portfolio Series T6 ,Global Fixed Income Balanced,2027.8,2015-08-01
 32241,BMO Retirement Balanced Portfolio Series T6 ,Global Neutral Balanced,3809.1,2015-08-01
 41984,BMO Ascent Balanced Portfolio ,Global Neutral Balanced,2250.4,2017-09-01
