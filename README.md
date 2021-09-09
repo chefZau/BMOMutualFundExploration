@@ -5,7 +5,7 @@ Investment is a field that requires lifelong learning, and I'd like to start ear
 
 1. **Data wrangling**: collect and clean the data into a playable format. If you wonder how the data collection and cleaning is done, see [`DataWrangling.ipynb`](https://github.com/chefZau/Exploring-BMO-MFunds/blob/main/DataWrangling.ipynb) for more detail.
 2. **Exploratory data analysis (EDA)**: supplement statistics with appropriate plots to understand the distributions and relationships. Notice that the file [`EDA.ipynb`](https://github.com/chefZau/Exploring-BMO-MFunds/blob/main/EDA.ipynb) contains the detailed exploration process.
-3. **Communicate my findings**: implement a dynamic dashboard for communicating insights.
+3. **Communicate my findings**: implement a dynamic dashboard for communicating insights. If you are interested in the dashboard I created using Tableau here is the link to it: [BMO Mutual Funds: 1 Year Performance Heat Map](https://public.tableau.com/views/BMOMutualFundsDataPerformanceExploration/Sheet1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).
 
 ## Prerequisite
 
